@@ -69,16 +69,16 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/url_launcher_ios/ios"
 
 SPEC CHECKSUMS:
-  camera_avfoundation: dd002b0330f4981e1bbcb46ae9b62829237459a4
+  camera_avfoundation: 04b44aeb14070126c6529e5ab82cc7c9fca107cf
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_radio_player: 2c531f0e2b9e636d6cf09704eb63ad040e3913ff
-  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
-  sqflite_darwin: 5a7236e3b501866c1c9befc6771dfd73ffb8702d
+  flutter_radio_player: d7a2cb8abaccdac04563b135cfb60cebabb03c6f
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  sqflite_darwin: 20b2a3a3b70e43edae938624ce550a3cbf66a3d0
   SwiftAudioEx: f6aa653770f3a0d3851edaf8d834a30aee4a7646
   TensorFlowLiteC: 20785a69299185a379ba9852b6625f00afd7984a
   TensorFlowLiteSwift: 3a4928286e9e35bdd3e17970f48e53c80d25e793
-  tflite_flutter: 9433d086a3060431bbc9f3c7c20d017db0e72d08
-  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
+  tflite_flutter: 64b192e11352fe36943ab6656e1d49207f1a5595
+  url_launcher_ios: 694010445543906933d732453a59da0a173ae33d
 
 PODFILE CHECKSUM: cf4d627e5b57c5b355969645b4bbda9231a310e3
 

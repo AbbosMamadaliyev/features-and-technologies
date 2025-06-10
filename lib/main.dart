@@ -9,6 +9,8 @@ import 'package:lock_example/features/share_to_story/share_to_story.dart';
 import 'package:lock_example/features/tensor_flow/detect_car.dart';
 import 'package:lock_example/features/tensor_flow/main_detect_car.dart';
 
+import 'features/example_textfield/text_field_example.dart' show ExampleDigitTextFieldScreen;
+
 void main() {
   runApp(const MyApp());
 }
@@ -26,7 +28,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const RadioScreen(),
+      home: const ExampleDigitTextFieldScreen(),
     );
   }
 }
