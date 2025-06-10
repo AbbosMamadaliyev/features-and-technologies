@@ -32,7 +32,6 @@ class _ExampleDigitTextFieldScreenState extends State<ExampleDigitTextFieldScree
                 hintText: 'Only digits allowed',
               ),
               inputFormatters: [
-                // FilteringTextInputFormatter.allow(RegExp(r'[0-9.,]')),
                 DecimalThousandsFormatter(thousandSep: ' '),
               ],
             ),
